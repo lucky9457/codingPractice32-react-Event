@@ -1,0 +1,39 @@
+/* Write your CSS here */
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.main {
+  display: flex;
+  min-height: 100vh;
+  background-color: white;
+  font-family: Roboto;
+}
+.headstart {
+  color: gray;
+  font-size: 20px;
+  text-align: center;
+  font-family: Roboto;
+}
+.EventsCon {
+  background-color: #64748b;
+  width: 60%;
+  padding: 30px;
+  padding-top: 10px;
+}
+.ActiveEventCont {
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+.event-head {
+  color: white;
+  margin-bottom: 20px;
+}
+.list-cont {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+}

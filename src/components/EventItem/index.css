@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.imgItem {
+  height: 140px;
+}
+.head {
+  font-family: Roboto;
+  font-size: 15px;
+  color: white;
+}
+.para {
+  font-family: Roboto;
+  font-size: 15px;
+  color: white;
+  margin-bottom: 0px;
+}
+.list-item {
+  margin-right: 10px;
+  margin-bottom: 20px;
+  list-style: none;
+  padding: 0px;
+}

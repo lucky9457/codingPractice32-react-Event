@@ -1,0 +1,65 @@
+/* Write your CSS here */
+.registeredImage {
+  width: 80px;
+}
+.alreadyregisterd-head {
+  color: grey;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 20px;
+}
+.registeredViewCont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.RegistrationsClosedView {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.registrationsClosedHeading {
+  font-family: Roboto;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.registrationsClosedImage {
+  width: 200px;
+  margin-bottom: 10px;
+}
+.stayToonedPara {
+  font-family: Roboto;
+  font-size: 20px;
+  text-align: center;
+  color: grey;
+}
+
+.yet-to-register-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.yet-to-register-img {
+  width: 250px;
+  margin-bottom: 20px;
+}
+.para-register {
+  color: grey;
+  font-family: Roboto;
+  font-size: 15px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.register-btn {
+  background-color: blue;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  border-radius: 10px;
+  color: white;
+}
